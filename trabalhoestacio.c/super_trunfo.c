@@ -67,6 +67,8 @@ int main(){
 
     printf("\n");
 
+    //mostrar informações das cartas 1 e 2
+
     printf ("Carta 1:\n" "Estado: %s\n" "Código: %s\n" "Nome da cidade: %s\n",estado1, cod_da_carta1, nome_da_cidade1);
     printf ("População: %d\n" "Área: %f\n" "PIB: %f\n" "Número de Pontos Turísticos: %d\n", populacao1, area_em_km1, pib1, pontos_turisticos1);
 
